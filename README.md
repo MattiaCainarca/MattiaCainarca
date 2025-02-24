@@ -40,6 +40,6 @@
 
 ---
 <h3 align="left"> 📊 My GitHub history:</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mattiacainarca&show_icons=true&locale=en&layout=compact" alt="mattiacainarca" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MattiaCainarca&show_icons=true&locale=en&layout=compact" alt="mattiacainarca" /></p>
 
 ![Wave Animation](wave.svg)
