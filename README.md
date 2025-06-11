@@ -4,8 +4,8 @@
   I'm a Computer Engineering student at SUPSI in Lugano, passionate about software development. I love working on projects that challenge my problem-solving skills and allow me to explore new technologies.<br>
 </h4>
 
-- 🔭 I’m working on developing a **Spring Boot & React** web application.  
-- 🌱 I’m currently learning to use **blockchain**.  
+- 🔭 I’m working on developing a **NestJS & React** web application.  
+- 🌱 I’m currently learning to use **NestJS**.  
 - 👨‍💻 All of my projects are available on **[my GitHub profile](https://github.com/MattiaCainarca)**.  
 
 
