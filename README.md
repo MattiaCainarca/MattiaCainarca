@@ -49,13 +49,4 @@
 </div>
 
 ---
-<h3 align="left"> 📊 My GitHub:</h3>
-<div align="center">
-  <p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MattiaCainarca&show_icons=true&locale=en&layout=compact&theme=dark" alt="mattiacainarca" />
-  </p>
-
-  <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Mattiacainarca&show_icons=true&locale=en&theme=dark" alt="mattiacainarca" /></p> -->
-</div>
-
 ![Wave Animation](wave.svg)
